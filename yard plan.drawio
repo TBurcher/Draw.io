@@ -603,10 +603,13 @@
           <mxGeometry x="-250" y="180" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kuIqpSutb5f7zw_z0I1X-175" value="&lt;font&gt;12 x 3 x 0.5 = 18m&lt;sup&gt;3&lt;/sup&gt;&lt;/font&gt;&lt;div&gt;&lt;sup&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;= 28,800kg&lt;/font&gt;&lt;/sup&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-687" y="-530" width="480" height="120" as="geometry" />
+          <mxGeometry x="-573.35" y="-320" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="kuIqpSutb5f7zw_z0I1X-177" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- Posts 12 x 2500&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- Fill&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-55" y="-562" width="150" height="50" as="geometry" />
+        <mxCell id="kuIqpSutb5f7zw_z0I1X-177" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- Posts 12 x 2500-2750 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;- Sleepers 18m x 8 deep = 144m.&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- Drainage pipes 24-26m&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- Metal 9m&lt;sup&gt;3&lt;/sup&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- Concrete 1.5m&lt;sup&gt;3&lt;/sup&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;- Top Soil 28.8 Tonne&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90.83000000000001" y="-345" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kuIqpSutb5f7zw_z0I1X-178" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;$500&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;$1500&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;$200&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;$1000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;$500&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="342.09" y="-340" width="70" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
