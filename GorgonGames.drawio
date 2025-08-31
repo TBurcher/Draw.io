@@ -109,6 +109,12 @@
         <mxCell id="J_YC12_d5SDnkjF6tkrv-7" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="253" y="496" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J_YC12_d5SDnkjF6tkrv-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sink_22;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="78" y="643.75" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="J_YC12_d5SDnkjF6tkrv-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sink_22;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="477" y="643.75" width="40" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
